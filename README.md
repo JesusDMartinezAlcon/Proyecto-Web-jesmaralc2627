@@ -16,3 +16,6 @@ Este proyecto tiene como objetivo servir de prueba para practicar el uso de **Gi
 ---
 
 ✍️ Proyecto desarrollado con fines educativos.
+
+
+## Próximas mejoras
